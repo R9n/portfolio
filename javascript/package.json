@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "repositório com problemas que achei interessante resolver e informações acerca de mim",
+  "author": "Ronaldo Modesto Ponciano",
+  "license": "ISC",
+  "dependencies": {
+    "standard": "^17.0.0"
+  }
+}
