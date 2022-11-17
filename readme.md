@@ -21,9 +21,12 @@ Meu intuito com isso é pura diversão, e possívlmente achar formas melhores de
 Não é minha intenção aqui querer reinventar a roda ou qualquer coisa do tipo, apenas gosto de resolver problemas e resolvi resolver alguns utilizando Javascript que é a linguagem que estou trabalhando mais neste momento, mas nada impede que futuramente eu implemente estas soluções em outras linguagens também. A vontade já tenho, só falta o tempo mesmo.🙃
 
 No mais é isso, fique a vontade para vasculhar, procurar ideias de resolver situações, sugerir problemas ( principalmete!!!) e também apontar correções e propostas de melhorias, pr's são muito super bem vindas.😄
+
 Espero que alguma dessas soluções lhe seja útil em algo 😀
 
 ## Problemas resolvidos
+
+Você pode consultar as soluções que implementei clicando [`Aqui`](https://github.com/R9n/portfolio/tree/main/solved-problems)
 
 ***compare-two-arrays***: Neste problema eu abordo o fato de comparar dois arrays para checar se eles são iguis, independente da ordem dos elementos. Por exemplo, verificar se ***[1,2,3] = [3,2,1]***
 
